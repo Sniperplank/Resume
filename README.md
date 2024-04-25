@@ -2,8 +2,8 @@
 Mississauga, Ontario | elafjundi@gmail.com | https://www.linkedin.com/in/eilaf-aljundi
 
 ## Objective
-Seeking a fall 2023 Co-op work term related to the field of software engineering, web  
-development, or data analysis.
+To secure a challenging position in a reputable organization to expand my learnings, 
+knowledge, and skills, while making significant contribution to the success of the organization.
 
 ## Summary of Skills
 - Reliable team player with strong problem-solving skills. Bilingual: English, Arabic 
