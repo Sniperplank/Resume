@@ -1,4 +1,4 @@
-# Eilaf Aljundi (289) 981-9435 
+# Eilaf Aljundi
 Mississauga, Ontario | elafjundi@gmail.com | https://www.linkedin.com/in/eilaf-aljundi
 
 ## Objective
@@ -15,7 +15,7 @@ development, or data analysis.
       • Databases: MongoDB, MySQL, NoSQL <br />
 
 ## Education
-Computer Programming Advanced Diploma, Co-op Stream | Fall 2021 - Present  
+Computer Programming Diploma | Fall 2021 - Fall 2023
 HUMBER COLLEGE, Etobicoke, ON  
 - Honors: Dean’s Honour List for Fall 2021, Winter 2022, and Fall 2022 terms
 
